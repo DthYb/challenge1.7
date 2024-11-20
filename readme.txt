@@ -7,5 +7,3 @@ COLOR:
 FONT: 
 	BASE: proxima-nova
 	TITLE: Amerigo Roman
-
-https://www.pierre-giraud.com/html-css-apprendre-coder-cours/creation-menu-deroulant/
